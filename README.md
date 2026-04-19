@@ -1,25 +1,25 @@
-# 👋 Hi, I'm Miłosz
+# Hi, I'm Miłosz
 
 Cybersecurity-focused computer science student (SOC, pentesting)
 Building backend applications in Java (Spring Boot)
 
 ---
 
-## 🚀 Currently
+## Currently
 
 * Learning SOC Level 1 (TryHackMe – top 3%)
 * Working on RacePortal (backend + security)
 
 ---
 
-## 🛠️ Tech
+## Tech
 
 Java • Spring Boot • REST • Docker
 JavaScript • Python • C++ • Git • AWS
 
 ---
 
-## 📌 Projects
+## Projects
 
 * 🔐 Supply Chain Attack Demo – demonstration of a basic supply chain vulnerability
 * ♟️ Chess App – chess game with customizable UI
